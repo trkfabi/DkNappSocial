@@ -1,0 +1,2 @@
+
+OTHER_LDFLAGS=$(inherited) -weak_framework Social -weak_framework Accounts
